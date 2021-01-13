@@ -19,13 +19,5 @@ Note that by default, git will clone the repository into a folder with name `<RE
 
 ### Tasks
 
-1. Upload each codeacademy screenshot to this repo using the usual git convention:
-```
-git add
-```
-```
-git commit
-```
-```
-git push
-```
+Add each codeacademy screenshot to this repo, commit your changes and push to this remote repo to submit. 
+
